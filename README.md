@@ -24,6 +24,6 @@ _Quais as portas utilizadas? Existe um documento que padronize essa escolha em s
 _Descreva qual a tecnologia de rede que vai ser utilizada por seus usuários: local, vlan, wifi?_
 _Identificadores da rede: algum IP específico ou ID de VLAN? Existe algum documento que padronize a escolha de ID? Anexe o documento ao  repositório_
 
-### Teste de serviço
+### Teste de serviço no ELAN
 _Identifique quais os softwares ou comandos  necessários para testar o serviço. Descreva o passo a passo incluindo os passos para verificar se está ativo, iniciar e terminar o serviço_
 _Todos os passos devem ser validados e registrados  na conta individual do aluno no ELAN_ 
