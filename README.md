@@ -26,3 +26,4 @@ _Identificadores da rede: algum IP específico ou ID de VLAN? Existe algum docum
 
 ### Teste de serviço
 _Identifique quais os softwares ou comandos  necessários para testar o serviço. Descreva o passo a passo incluindo os passos para verificar se está ativo, iniciar e terminar o serviço_
+_Todos os passos devem ser validados e registrados  na conta individual do aluno no ELAN_ 
